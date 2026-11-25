@@ -383,9 +383,6 @@ v4vendetta is intended for authorized web reconnaissance and internal security a
 - Use `ROOT_DOMAIN` carefully to avoid including unintended subdomains.
 - Ensure that crawling activities comply with applicable laws, agreements, and security policies.
 
-## License
-
-Specify your preferred license before distributing this project.
 
 ## Disclaimer
 
