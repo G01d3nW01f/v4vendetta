@@ -4,7 +4,7 @@
 
 Designed for authorized security assessments, v4vendetta helps security researchers and penetration testers identify potentially interesting URLs within a defined domain scope.
 
-It can also integrate with [DeadShot](https://github.com/projectdiscovery/subfinder), allowing previously discovered and DNS-resolved subdomains to be used as crawl targets.
+It can also integrate with [DeadShot](https://github.com/G01d3nW01f/deadshot), allowing previously discovered and DNS-resolved subdomains to be used as crawl targets.
 
 ## Features
 
